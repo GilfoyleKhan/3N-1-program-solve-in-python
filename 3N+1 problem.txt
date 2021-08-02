@@ -1,0 +1,29 @@
+3N+1 problem solve in python
+
+Hi redditor,
+Nama saya Asfandyar dari Pulau Pinang dan berumur 15 tahun.
+Tadi saya nampak video pasal 3N+1 problem di youtube(Veritasium) 
+dan saya kagum dengan masalah matematik ini.Jadi,saya ambil tindakan untuk siapkan
+program ni dengan bahasa pengaturaraan python.
+code nih bukan 100% sy punya,hanya copy paste dari internet,
+sebahagian lain sy edit kerana code kat internet ada error,
+so sy ambil inisiatif untuk lengkapkan.Akhirnya, tak da error.lol
+penat tau solve error tanpa bantuan org lain,so make sure follow social media sy.lol
+untuk info yg lebih lanjut,visit my github page
+github:
+twitter :
+instagram:
+youtube channel:
+kalau sudi,derma la sikit.lol
+ethereum add :
+bitcoin add:
+
+
+
+
+
+if odd 
+number *3+1
+
+even 
+number /2
